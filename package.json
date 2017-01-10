@@ -1,7 +1,7 @@
 {
   "name": "ocean-light-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A subtle atom syntax theme based on Base16 Ocean Light theme for Sublime Text.",
   "keywords": [
     "syntax",
